@@ -20,21 +20,23 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>https://192.168.188.235/icon.png（icon路径）</string>
+                    <string>https://i.png</string>
                 </dict>
 
             </array>
             <key>metadata</key>
-            <dict>
-                <key>bundle-identifier</key>
-                <string>《APP的Bundle ID》</string>
-                <key>bundle-version</key>
-                <string>《APP的版本号》</string>
-                <key>kind</key>
-                <string>software</string>
-                <key>title</key>
-                <string>《APP的名称》</string>
-            </dict>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>domain</string>
+               <key>bundle-version</key>
+               <string>1.0.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>App Subtitle</string>
+               <key>title</key>
+               <string>App Title</string>
+           </dict>
         </dict>
     </array>
 </dict>
