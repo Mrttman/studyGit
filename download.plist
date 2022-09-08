@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>https://qdbh-cu01.baidupcs.com/file/f406f0608q483d5de82d8b27d3eb3968?bkt=en-1df98aeb722e81f5dc08759c164a938fb661e887756e0a63356101b70ea8523df9724d390da4cf5a&fid=2903824491-250528-605452234256598&time=1662619531&sign=FDTAXUbGERLQlBHSKfWqi-DCb740ccc5511e5e8fedcff06b081203-VG192hgyn3fCPfKLPKA8ppIvQk0%3D&to=413&size=17314601&sta_dx=17314601&sta_cs=0&sta_ft=ipa&sta_ct=0&sta_mt=0&fm2=MH%2CBaoding%2CAnywhere%2C%2Cguangdong%2Ccnc&ctime=1662619506&mtime=1662619506&resv0=-1&resv1=0&resv2=rlim&resv3=5&resv4=17314601&vuk=2903824491&iv=0&htype=&randtype=&tkbind_id=0&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-ab68c638acf43bf1ef39a37c9b5b1a2ab9219b94864f50b3cb6af4acb42da528752f7cbf1c73a40d&sl=76480590&expires=8h&rt=pr&r=886340332&vbdid=3827529759&fin=LogisticsVisibility_transp.ipa&fn=LogisticsVisibility_transp.ipa&rtype=1&dp-logid=47860559899673286&dp-callid=0.1&hps=1&tsl=80&csl=80&fsl=-1&csign=WRh339mNwE4xR6ulgLrvbFduXuE%3D&so=0&ut=6&uter=4&serv=0&uc=3022825749&ti=970a8ec65273ef1205c3f763f50b2e78bc23a64893ff999e&hflag=30&from_type=1&adg=c_54f2273e90f37a7f9b278e14ef084485&reqlabel=250528_f_97d6fa7a655176637f68d8ddb3d57931_-1_f00ec08949a7cdf8bae454d97c04893a&by=themis</string>
+                    
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>needs-shine</key>
+                    <true/>
+                    <key>url</key>
+                    <string>https://192.168.188.235/icon.png（icon路径）</string>
+                </dict>
+
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>《APP的Bundle ID》</string>
+                <key>bundle-version</key>
+                <string>《APP的版本号》</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>《APP的名称》</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
+
